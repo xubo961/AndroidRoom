@@ -35,4 +35,5 @@ public class PalabraListAdapter extends ListAdapter<Palabra, PalabraViewHolder> 
             return oldItem.getPalabra().equals(newItem.getPalabra());
         }
     }
+
 }
